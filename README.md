@@ -1,4 +1,4 @@
-### Hi there 👋
+This is a personal website that also acts as a resume
 
 <!--
 **EmeraldAdams/EmeraldAdams** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
